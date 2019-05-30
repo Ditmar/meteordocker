@@ -1,0 +1,24 @@
+version: '3'
+services:
+  app:
+    environment:
+      - MONGO_URL=mongodb://172.19.0.2:27017/clinica
+      - ROOT_URL=http://127.0.0.1:3000
+      - MAIL_URL=smtp://user:password@mailhost:port/
+      - PORT=3000
+    build: .
+    links:
+      - mongo
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./src:/opt/app
+      - /opt/app/node_modules
+  mongo:
+    image: mongo
+    ports:
+      - "27017:27017"
+    volumes:
+      - ./mongodata:/data/db
+volumes:
+  mongodata:

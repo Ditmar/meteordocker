@@ -1,0 +1,1171 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "c8cc7c8c75c5f649db2869a91cccac611de3d132.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/c8cc7c8c75c5f649db2869a91cccac611de3d132.js?meteor_js_resource=true",
+      "size": 5725586,
+      "hash": "c8cc7c8c75c5f649db2869a91cccac611de3d132",
+      "sri": "oOC2AdCmU9flXD6/HtaeSTqQ/O4b0PCZe8IvxWh430WzaC0Ut2bFly4M+dHXfy/ctEk+2ofkgB8KdPCSDTTyJQ=="
+    },
+    {
+      "path": "c8cc7c8c75c5f649db2869a91cccac611de3d132.stats.json",
+      "where": "client",
+      "type": "json",
+      "cacheable": true,
+      "url": "/c8cc7c8c75c5f649db2869a91cccac611de3d132.stats.json?meteor_js_resource=true",
+      "size": 51237,
+      "hash": "edff4572ebf37caac40c2abb1d02ba010fff499d",
+      "sri": "9EElz8PHspdDk6qxw5yB3iuJvyqlM3h+bdczXVEZXEzHMdzGJGwkCexN7Dqt95/FhTP/8vsgqR83dPOypt4v2Q=="
+    },
+    {
+      "path": "970b3fb1977053da2f7eea8657a063b8d8afb251.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/970b3fb1977053da2f7eea8657a063b8d8afb251.css?meteor_css_resource=true",
+      "size": 188768,
+      "hash": "970b3fb1977053da2f7eea8657a063b8d8afb251",
+      "sri": "rzuAElG7kh58obq1vKygcDNfUiB590ua0y0ATsJ+QSMg9/alZFENg9buJSfIkdSS8EtSLjXFyjmrVblYZlp8AQ=="
+    },
+    {
+      "path": "packages/planettraining_material-design-icons-font/bower_components/material-design-icons/iconfont/MaterialIcons-Regular.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/planettraining_material-design-icons-font/bower_components/material-design-icons/iconfont/MaterialIcons-Regular.eot",
+      "size": 143258,
+      "hash": "7d1d213beec372be793472aba16e6c42606b2567",
+      "sri": "UCKXaBe4k0mnHgQ4tXP1PcW3Q6zIZRYxAtbWV8w/vv/e+5G+BXEW62f4IhXv3i7Vwx68zGqQYacT4QSmTg8ZLg=="
+    },
+    {
+      "path": "packages/planettraining_material-design-icons-font/bower_components/material-design-icons/iconfont/MaterialIcons-Regular.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/planettraining_material-design-icons-font/bower_components/material-design-icons/iconfont/MaterialIcons-Regular.ttf",
+      "size": 128180,
+      "hash": "70548fca4d9b14153402074eeb8e0724faea1f40",
+      "sri": "zYeEoWLtQoylp25eh3NJ1QYgdz46PSAtUZn++11pqbh7ksXelFXcPDc/77Bl8GoY8XGZpWAYh/wfiA0UvSI3aQ=="
+    },
+    {
+      "path": "packages/planettraining_material-design-icons-font/bower_components/material-design-icons/iconfont/MaterialIcons-Regular.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/planettraining_material-design-icons-font/bower_components/material-design-icons/iconfont/MaterialIcons-Regular.woff",
+      "size": 57620,
+      "hash": "b4b3d37afcdc23d4e960d7fe474e9525bd0f9d6d",
+      "sri": "CrXhjuOXL81Znq0YPYHNONjFWaXofKhu68tqLPriB4onSV47WCSqxuvdwI9X1ZSyz2koExNKHgArKFBet8NBcg=="
+    },
+    {
+      "path": "packages/planettraining_material-design-icons-font/bower_components/material-design-icons/iconfont/MaterialIcons-Regular.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/planettraining_material-design-icons-font/bower_components/material-design-icons/iconfont/MaterialIcons-Regular.woff2",
+      "size": 44300,
+      "hash": "a345f34807683ccfb9f339327a7180a502ef9a12",
+      "sri": "uqFxhb7dHwSxOKHeN0G3pgUqAsHUhI1TWa4+zIAGHFTfYzdGhFcbtQsTkq9EWPHfel32NHFv1fsmnsf2Pz9l0Q=="
+    },
+    {
+      "path": "packages/ostrio_files/worker.min.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/ostrio_files/worker.min.js",
+      "size": 625,
+      "hash": "1bbed45a74d0fa4392c6af5f13db396c2a18df84",
+      "sri": "O3hA6j1YKRSa2Hpu+o1M2pAHe/g5J8gGjshPPW2SfHnx/9kJD4Za7FtEYnDQVfDJC/oLkvMcC4MsNKX6Nry49A=="
+    },
+    {
+      "path": "app/images/Preloader.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/Preloader.gif",
+      "size": 565645,
+      "hash": "19737368c7d33df859a6c2096c7aabbff336d6ce",
+      "sri": null
+    },
+    {
+      "path": "app/images/avatar.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/avatar.png",
+      "size": 2933,
+      "hash": "b3708851321a655a74c34f1f5c23eb847fadd512",
+      "sri": null
+    },
+    {
+      "path": "app/images/avatar_aseg.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/avatar_aseg.png",
+      "size": 4636,
+      "hash": "9817c3fb6a00d11a58899f6bfa54df352957fa19",
+      "sri": null
+    },
+    {
+      "path": "app/images/avatar_aseg2.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/avatar_aseg2.png",
+      "size": 16172,
+      "hash": "4aa4f01725583da5c6b466bb90902247bb5df009",
+      "sri": null
+    },
+    {
+      "path": "app/images/avatar_default.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/avatar_default.png",
+      "size": 6298,
+      "hash": "f5d44455c5a1c3236a2cde8e6537a775cd1d2ba3",
+      "sri": null
+    },
+    {
+      "path": "app/images/cargando.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/cargando.gif",
+      "size": 2346340,
+      "hash": "149fddcb2931e9a4d71eb293e2800eabd219f14b",
+      "sri": null
+    },
+    {
+      "path": "app/images/computer.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/computer.png",
+      "size": 3796,
+      "hash": "85b91c57ff70db853882554b7a84c2295aac5c3e",
+      "sri": null
+    },
+    {
+      "path": "app/images/cons_externa.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/cons_externa.jpg",
+      "size": 420056,
+      "hash": "7f6f6c20aff3c62ca1de0a2fae64524685191ac2",
+      "sri": null
+    },
+    {
+      "path": "app/images/doctor.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/doctor.png",
+      "size": 6559,
+      "hash": "aaeda35a7faaa5518afe5d87b6329446610bbc7d",
+      "sri": null
+    },
+    {
+      "path": "app/images/doctora.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/doctora.png",
+      "size": 6433,
+      "hash": "b351b93cdc646b418c17bd68a08e75a0c01e705d",
+      "sri": null
+    },
+    {
+      "path": "app/images/emergencias.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/emergencias.jpg",
+      "size": 486749,
+      "hash": "a9f7ea9f9bcfab2053991c1589e09d9126c94f3d",
+      "sri": null
+    },
+    {
+      "path": "app/images/enfermeria.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/enfermeria.jpg",
+      "size": 334160,
+      "hash": "a8b2d108eb6c22e0aa03b6a7b2d066172221462e",
+      "sri": null
+    },
+    {
+      "path": "app/images/fondo0.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/fondo0.jpg",
+      "size": 292469,
+      "hash": "1f99aeebcf8b53809e138c62f3ceff655f25a903",
+      "sri": null
+    },
+    {
+      "path": "app/images/fondo1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/fondo1.jpg",
+      "size": 208954,
+      "hash": "c45c6629c13b6f95bb0c382cac24db5056aee617",
+      "sri": null
+    },
+    {
+      "path": "app/images/fondo2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/fondo2.jpg",
+      "size": 307056,
+      "hash": "15ba7867dc2d054d082e749324f1491b06bb6ed7",
+      "sri": null
+    },
+    {
+      "path": "app/images/fondo3.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/fondo3.jpg",
+      "size": 80989,
+      "hash": "9db9de3ada494735a293e6cd55bd21fc1f24b92f",
+      "sri": null
+    },
+    {
+      "path": "app/images/fondo4.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/fondo4.jpg",
+      "size": 288287,
+      "hash": "20eedf8d63a2516be0847bd00a2d564d0ff67fa2",
+      "sri": null
+    },
+    {
+      "path": "app/images/fondo5.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/fondo5.jpg",
+      "size": 282909,
+      "hash": "158a2cb3748b510d5f5ebbbabd7318370f940822",
+      "sri": null
+    },
+    {
+      "path": "app/images/fondo6.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/fondo6.jpg",
+      "size": 354797,
+      "hash": "16997d36e9793df35992c07dbd2a68698f623860",
+      "sri": null
+    },
+    {
+      "path": "app/images/fondo7.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/fondo7.jpg",
+      "size": 649908,
+      "hash": "d6bf1b32b4be3f4dc7c19bffcb3eaacb8a624a35",
+      "sri": null
+    },
+    {
+      "path": "app/images/fondo8.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/fondo8.jpg",
+      "size": 1524673,
+      "hash": "53d3bcad70278bfdfd60be02ec5a2a33e89d4913",
+      "sri": null
+    },
+    {
+      "path": "app/images/fondo9.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/fondo9.jpg",
+      "size": 207324,
+      "hash": "d64e114a8068b4a42b8a870122fa7a42cc32f7de",
+      "sri": null
+    },
+    {
+      "path": "app/images/fondo_carnet.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/fondo_carnet.jpg",
+      "size": 17717,
+      "hash": "176a4bc0bf1e29e5334bc6ce16e59484a7575477",
+      "sri": null
+    },
+    {
+      "path": "app/images/fondo_carnet2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/fondo_carnet2.jpg",
+      "size": 14697,
+      "hash": "319734eba28171705b2a8e34f5333e491b760832",
+      "sri": null
+    },
+    {
+      "path": "app/images/inicio_clinica1.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/inicio_clinica1.png",
+      "size": 127913,
+      "hash": "fea78f033a6b766f199037912b8549743860c005",
+      "sri": null
+    },
+    {
+      "path": "app/images/logo1.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/logo1.png",
+      "size": 66328,
+      "hash": "b36a5e0301ae63c8aef14a6342c6d7da63b40439",
+      "sri": null
+    },
+    {
+      "path": "app/images/logo2.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/logo2.png",
+      "size": 61808,
+      "hash": "0a5fda83c8a9039d454b3bbf01aac23682e62add",
+      "sri": null
+    },
+    {
+      "path": "app/images/logo3.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/logo3.png",
+      "size": 59657,
+      "hash": "4f1784b3a3b3422b82b268660ff482e55f9a9b14",
+      "sri": null
+    },
+    {
+      "path": "app/images/logo_c1m.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/logo_c1m.png",
+      "size": 979558,
+      "hash": "a04d45629fc3a71ce529fadf4816a96072386360",
+      "sri": null
+    },
+    {
+      "path": "app/images/logo_c1m2.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/logo_c1m2.png",
+      "size": 967518,
+      "hash": "b8219d207d2a55e947a9f98630a68bad0c3ba1b0",
+      "sri": null
+    },
+    {
+      "path": "app/images/logo_s.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/logo_s.png",
+      "size": 65798,
+      "hash": "a1584047ddfd7ed430facc1f594a583df88b5f7e",
+      "sri": null
+    },
+    {
+      "path": "app/images/logo_s2.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/logo_s2.png",
+      "size": 71889,
+      "hash": "d69051460d49e9236160173ea5bbe391bdac0c02",
+      "sri": null
+    },
+    {
+      "path": "app/images/monstruito.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/monstruito.png",
+      "size": 90124,
+      "hash": "ba8ed7c1f05a3cd504ed87aa0409153ef5e6c679",
+      "sri": null
+    },
+    {
+      "path": "app/images/no_image_us.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/no_image_us.png",
+      "size": 4636,
+      "hash": "9817c3fb6a00d11a58899f6bfa54df352957fa19",
+      "sri": null
+    },
+    {
+      "path": "app/images/no_image_user.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/no_image_user.png",
+      "size": 26513,
+      "hash": "4020bb70484c3e67cf956b9adbe442cd6c06ee12",
+      "sri": null
+    },
+    {
+      "path": "app/images/nv.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/nv.jpg",
+      "size": 242359,
+      "hash": "0a4405e15ba790eaf893a08e6267930f4ef3bcce",
+      "sri": null
+    },
+    {
+      "path": "app/images/nv2.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/nv2.png",
+      "size": 454972,
+      "hash": "86fb84e0e2a9d6adf4d9fcbae57ee1b35a5ee5b3",
+      "sri": null
+    },
+    {
+      "path": "app/images/pielog.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/pielog.png",
+      "size": 90965,
+      "hash": "8b927ff43fc2447ed2ecc8ea3a142a6a7fcaf800",
+      "sri": null
+    },
+    {
+      "path": "app/images/pielog1.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/pielog1.png",
+      "size": 183017,
+      "hash": "89e6f042ead19f69fae1e00cef62409d3c495d7f",
+      "sri": null
+    },
+    {
+      "path": "app/images/pielog3.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/pielog3.png",
+      "size": 202723,
+      "hash": "64272169ac55bef5e9b17cfa229063e2f8280868",
+      "sri": null
+    },
+    {
+      "path": "app/images/pielog4.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/pielog4.png",
+      "size": 74516,
+      "hash": "1426ce518aa772bbb0ae1a59e35ea09b3f31ce5f",
+      "sri": null
+    },
+    {
+      "path": "app/images/user.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/user.png",
+      "size": 19761,
+      "hash": "ad1fda70252f598c908a101a1226506cf62d2671",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/aceptado.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/aceptado.png",
+      "size": 12413,
+      "hash": "0f5e8634cb808096a777911329a1e5151317da88",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/advertencia (1).png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/advertencia (1).png",
+      "size": 3138,
+      "hash": "376b1a78909bf24e89bb3697f64dc53c01e12e67",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/advertencia.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/advertencia.png",
+      "size": 6679,
+      "hash": "c675e73cc6bfebb6dcd382980d30925ab41fa564",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/bebe.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/bebe.png",
+      "size": 32018,
+      "hash": "7deb5ae49f20dd5faf2056301afa03410e2c4c0d",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/buscar3.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/buscar3.png",
+      "size": 144734,
+      "hash": "a3ebfc159a67ad3756921ed6a5e0336a14ae5512",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/buscar4.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/buscar4.png",
+      "size": 233604,
+      "hash": "2234d7339ab1447a8f40c63c171b05a9dacbfaad",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/calendar.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/calendar.png",
+      "size": 9196,
+      "hash": "5e87603e0586a7297f61dd75d85b52555cdf431e",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/calendario.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/calendario.png",
+      "size": 25483,
+      "hash": "8d0911be42216f89ac85adb5afd6dc5183965443",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/cama.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/cama.png",
+      "size": 25489,
+      "hash": "24234bfb83ddf042c714ed7bbbed34fa0515f5b9",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/carpeta_open.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/carpeta_open.png",
+      "size": 22328,
+      "hash": "7daf69d1cedefbaded5afb4eac3c7d7958a12075",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/carpetah.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/carpetah.png",
+      "size": 2030,
+      "hash": "13c36e51f78b4e46d16ab16207c8361cbc3177b2",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/carrito.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/carrito.png",
+      "size": 7784,
+      "hash": "1b6ef1a8280b8440f90d24cfd9782c250664e0b3",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/cirugia.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/cirugia.png",
+      "size": 28212,
+      "hash": "dfaf0ba6147beea99ff0c4bfe422e0864cd0f2d9",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/clipboard.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/clipboard.png",
+      "size": 8637,
+      "hash": "342a2a6d00f061fbf56e60d1cf7154644b4c0f23",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/cobrar.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/cobrar.png",
+      "size": 4516,
+      "hash": "2a7cadfeaf0184fda82c311b2a41d1eec0007f2c",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/cobro2.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/cobro2.png",
+      "size": 4311,
+      "hash": "f9e66341a562349d5c75ac87435122726711a6b6",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/codigo.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/codigo.png",
+      "size": 9400,
+      "hash": "2bded486ff585c8fc1ba1001b0a3877100f7c30f",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/coins.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/coins.png",
+      "size": 6622,
+      "hash": "dfb706a95d9cc4730eefad01e36a38c4a036736e",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/comun.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/comun.png",
+      "size": 12550,
+      "hash": "cafba18bb7a556271fc15f52bf78b9bbcce44797",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/comun2.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/comun2.png",
+      "size": 15663,
+      "hash": "7c9baccbe92d8ca0f1d44c123a220fabcebd9b3a",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/crear_historia.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/crear_historia.png",
+      "size": 5500,
+      "hash": "9c3ca598e81c2f40bf32ee83bb87492fe428e965",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/doctores.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/doctores.png",
+      "size": 30250,
+      "hash": "5c7b24e70b00dc303e40a56f41864113fbeaec9f",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/document.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/document.png",
+      "size": 7727,
+      "hash": "dfa69c3a8245b1fdd393489605d7c98a1fc08375",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/efectivo.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/efectivo.png",
+      "size": 12834,
+      "hash": "34c0cc323a58a0d7dc8f42956d368bdfb158a442",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/egreso.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/egreso.png",
+      "size": 23280,
+      "hash": "fd85fa8aa40592efb866994cf34348c1968ea139",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/enfermeria.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/enfermeria.png",
+      "size": 24411,
+      "hash": "71e558d9e7d24406e4658a15f0edc5acf762de7d",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/enviado.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/enviado.png",
+      "size": 10637,
+      "hash": "cdf65bc8d20211388a93a2158330696c7c284c07",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/error.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/error.png",
+      "size": 39150,
+      "hash": "f714be523dc5dfa3d982cbc2567717720693cac4",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/estetoscopio.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/estetoscopio.png",
+      "size": 8725,
+      "hash": "644977c071fcd278dd72f368f29a9407c563b091",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/excel.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/excel.png",
+      "size": 8852,
+      "hash": "c7499bd2f6a14d22d871b06899fa2ea0a0fef6aa",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/finish.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/finish.png",
+      "size": 17058,
+      "hash": "eaede10cbf008d4d436ad53ed9914c9a7f1363ef",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/folder_env.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/folder_env.png",
+      "size": 20577,
+      "hash": "132b5fc34e43142aeade7d96ed2e44edd40d7a36",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/folder_rec.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/folder_rec.png",
+      "size": 23755,
+      "hash": "0b0fc2f63f6747cfde37395e2661c435f943e582",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/historial.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/historial.png",
+      "size": 5589,
+      "hash": "3764b7b1a13a2d26bb0280a3055f514901a57f4b",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/imagen.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/imagen.png",
+      "size": 7693,
+      "hash": "b7b8323c0db4e1f53515c8104ac5aad1e29ef06a",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/indicaciones.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/indicaciones.png",
+      "size": 5318,
+      "hash": "8245d09492bb90f4f43112e020cb36546ad25ab9",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/ingreso.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/ingreso.png",
+      "size": 6839,
+      "hash": "9783ef60ca500a53860a0e98f25799ef2b3c6dca",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/ingresos.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/ingresos.png",
+      "size": 39418,
+      "hash": "b82992deb54e63616b5128f36449385bf1856a34",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/laboratorio.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/laboratorio.png",
+      "size": 3148,
+      "hash": "e3ed79bbde88a9877cf93b946c24c241579a8665",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/line.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/line.png",
+      "size": 14633,
+      "hash": "50e361168742f0be114a487add7268d9111fc970",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/list.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/list.png",
+      "size": 821,
+      "hash": "c1223d809277804173b8afefcf1202cc3780004e",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/medicamento.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/medicamento.jpg",
+      "size": 24875,
+      "hash": "1f628ed3923de4678d2221aaf9e9432b7013e1b0",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/medicamentos.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/medicamentos.png",
+      "size": 2001,
+      "hash": "53a3bc312b79c0f2513ef2a6adf6e7513f8f433e",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/medico_default.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/medico_default.png",
+      "size": 32220,
+      "hash": "cf57f8e673af9731a7a699ec0f36fa4baa4ae777",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/money.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/money.png",
+      "size": 13972,
+      "hash": "493c2c15eebd151982b86c4231b330be4a5d62cf",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/money2.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/money2.png",
+      "size": 8183,
+      "hash": "d12310db7835ba10afa50ce8784343e977b6f0f1",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/noimage.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/noimage.png",
+      "size": 23000,
+      "hash": "0bb1f45c8ee5019897d5b771174773b1e65dc34e",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/noresult.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/noresult.png",
+      "size": 190453,
+      "hash": "070c5ea1eabf26b802a67e8e629b0fc79637f932",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/noresult0.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/noresult0.png",
+      "size": 101902,
+      "hash": "d6edc0d94521094ef944a4fd7b5eff22ad82cdf9",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/noresult2.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/noresult2.png",
+      "size": 108147,
+      "hash": "f760e7f50de7610195fd283cb31775db5458c33b",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/noresult3.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/noresult3.png",
+      "size": 82900,
+      "hash": "134efd551e7a40600bb4b2cc6bedbeb9bdb27a7c",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/noresult4.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/noresult4.png",
+      "size": 7502,
+      "hash": "c1d2dbe20f7875cc5c9445baec5b5074c9cf7622",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/paciente.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/paciente.png",
+      "size": 5510,
+      "hash": "12f9072f321735fe24b0048ff722c96051e272b2",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/papelera.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/papelera.png",
+      "size": 36432,
+      "hash": "79d40fa101d171a1bd5842270a4b24b11dc3fffa",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/papelera_llena.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/papelera_llena.png",
+      "size": 37327,
+      "hash": "64f24f0733c0dd5ba73aca78a64213578ff21176",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/parto.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/parto.jpg",
+      "size": 47060,
+      "hash": "89d8dbec4778c9411e8a33e5f9c5d7547fc7a2db",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/pastillas.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/pastillas.png",
+      "size": 4993,
+      "hash": "ba3505f26f7557c0b3e65cc0f57341958faa8db3",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/rayosx.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/rayosx.png",
+      "size": 6366,
+      "hash": "620f33c87cf841047dcc8d07be58bb6d7645420b",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/recibido.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/recibido.png",
+      "size": 10696,
+      "hash": "5d7b1dea44e5cc21a260b9409f81341407e881d2",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/shopping.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/shopping.png",
+      "size": 10376,
+      "hash": "17d3fa266ad44af32bf9dcc8dd654043d91e2249",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/sirena.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/sirena.png",
+      "size": 4496,
+      "hash": "d89ce3e1c9bdbd28196a0f7909b45e0905ce0f85",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/success.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/success.png",
+      "size": 38151,
+      "hash": "95c90b29c01514728ee46260045376fdd0e149bd",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/transferencia.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/transferencia.png",
+      "size": 28710,
+      "hash": "2be8615603cbe5ed9cba42bd17cda7ed49791ae7",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/traspaso.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/traspaso.png",
+      "size": 7862,
+      "hash": "7f8cd5c1798c0cc59a13bd79dc2c8f58b0da2fd3",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/vacio.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/vacio.png",
+      "size": 33785,
+      "hash": "e0840994963b0a4bc2f96d1fa9ebeb8039369802",
+      "sri": null
+    },
+    {
+      "path": "app/images/icons/vacio1.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/vacio1.png",
+      "size": 50072,
+      "hash": "7f1efb8b53c742f897ee70c191ecece45323bf68",
+      "sri": null
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "0ad500697baf27a8cca6eb2b5412d4f69338d2cf"
+    }
+  ]
+}
